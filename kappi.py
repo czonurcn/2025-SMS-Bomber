@@ -33,7 +33,7 @@ while 1:
         menu = int(menu) 
     except ValueError:
         system("cls||clear")
-        print(Fore.LIGHTRED_EX + "Hatalı giriş yaptın. Tekrar deneyiniz.")
+        print(Fore.LIGHTRED_EX + "Hatalı msmdsnmdmdmdgiriş yaptın. Tekrar deneyiniz.")
         sleep(3)
         continue
     if menu == 1:
