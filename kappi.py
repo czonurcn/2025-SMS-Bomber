@@ -19,7 +19,7 @@ while 1:
     ╔═════════════════════════════════════════════════════╗
     ║  {Fore.LIGHTMAGENTA_EX}█████████████████████████████████████████████{Fore.LIGHTCYAN_EX}      ║
     ║  {Fore.YELLOW}Kappi7581 Fast Sms Bomber 2025{Fore.LIGHTCYAN_EX}                                      ║
-    ║  {Fore.GREEN}Bu Sms Bomber Çok Güçlüdür.{Fore.LIGHTCYAN_EX}                                          ║
+    ║  {Fore.GREEN}Bu Sms Bomber Onurcan.{Fore.LIGHTCYAN_EX}                                          ║
     ║  {Fore.RED}Egitim amaçlı yapılmıştır sorumluluk almıyoruz.{Fore.LIGHTCYAN_EX}                        ║
     ║  {Fore.CYAN}Developer By Kappi7581{Fore.LIGHTCYAN_EX}                                                ║
     ║  {Fore.LIGHTMAGENTA_EX}█████████████████████████████████████████████{Fore.LIGHTCYAN_EX}      ║
