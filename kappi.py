@@ -27,7 +27,7 @@ while 1:
     {Style.RESET_ALL}""")
 
     try:
-        menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Gönder (Normal Mod)\n\n 2- SMS Gönder (Ölümcül Mod)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
+        menu = (input(Fore.LIGHTMAGENTA_EX + " 1- SMS Göndernnnnn (Normal Mod)\n\n 2- SMS Gönder (Ölümcül Mod)\n\n 3- Çıkış\n\n" + Fore.LIGHTYELLOW_EX + " Seçim: "))
         if menu == "":
             continue
         menu = int(menu) 
