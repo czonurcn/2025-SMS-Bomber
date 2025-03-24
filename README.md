@@ -4,8 +4,7 @@ pkg update -y && pkg upgrade -y
 
 pkg install python git -y
 
-git clone https://github.com/czonurcn/2025-SMS-Bomber
-
+git clone https://github.com/czonurcn/2025-SMS-Bomber.git
 
 cd czonurcn-2025-SMS-Bomber
 
