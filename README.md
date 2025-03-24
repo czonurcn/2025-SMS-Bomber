@@ -7,7 +7,7 @@ pkg install python git -y
 git clone https://github.com/czonurcn/2025-SMS-Bomber
 
 
-cd Kappi7581-super-fast-sms-bomber-2025
+cd czonurcn-2025-SMS-Bomber
 
 pip install -r requirements.txt
 
