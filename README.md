@@ -16,7 +16,7 @@
 apt update & apt upgrade
 apt install git
 git clone https://github.com/czonurcn/2025-SMS-Bomber.git
-cd enough-V2
+cd zonurcsm
 python3 main.py
 ```
 
